@@ -3,7 +3,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAthena-SynCognition-Lab&label=Visitors&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAthena-SynCognition-Lab)
 
 ## 🌐 Live Website
-> **Visit our official website:** [https://athena-syncognition-lab.github.io/](https://athena-syncognition-lab.github.io/)
+> **Visit our website:** [https://athena-syncognition-lab.github.io/](https://athena-syncognition-lab.github.io/)
 
 ---
 
