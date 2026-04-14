@@ -1,6 +1,5 @@
 # 🧠 Athena SynCognition Lab
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://athena-syncognition-lab.github.io/)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAthena-SynCognition-Lab&label=Visitors&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAthena-SynCognition-Lab)
 
 ## 🌐 Live Website
